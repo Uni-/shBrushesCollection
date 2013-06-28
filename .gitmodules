@@ -1,0 +1,30 @@
+[submodule "go-xeonx"]
+	path = go-xeonx
+	url = git://github.com/xeonx/shBrushGo.git
+[submodule "clojure-pupeno"]
+	path = clojure-pupeno
+	url = git://github.com/pupeno/clojure_brush.git
+[submodule "skill-michaelgod"]
+	path = skill-michaelgod
+	url = git://github.com/michaelgod/SyntaxHighlighter-Evolved-SKILL-Brush.git
+[submodule "lisp-michaelgod"]
+	path = lisp-michaelgod
+	url = git://github.com/michaelgod/SyntaxHighlighter-Evolved-LISP-Brush.git
+[submodule "bindzone-ironsmile"]
+	path = bindzone-ironsmile
+	url = git://github.com/ironsmile/Bind-for-SyntaxHighlighter.git
+[submodule "coffeescript-philipp15b"]
+	path = coffeescript-philipp15b
+	url = git://github.com/Philipp15b/wp-syntaxhighlighter-coffeescript-brush.git
+[submodule "typescript-ianomiller"]
+	path = typescript-ianomiller
+	url = git://github.com/ianobermiller/SyntaxHighlighter-Evolved-TypeScript-Brush.git
+[submodule "lisp-rehanift"]
+	path = lisp-rehanift
+	url = git://github.com/rehanift/wp-syntaxhighlighter-brush-lispy.git
+[submodule "smalltalk-dvberkel"]
+	path = smalltalk-dvberkel
+	url = git://github.com/dvberkel/SyntaxHighlighter-Smalltalk-Brush.git
+[submodule "xquery-robwhitby"]
+	path = xquery-robwhitby
+	url = git://github.com/robwhitby/SyntaxHighlighter-XQueryBrush.git
